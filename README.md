@@ -1,13 +1,17 @@
 # Bankist Application
 
-Submitted by: Samuel Ntadom
 
-
-Time spent: 2 days spent in total
 
 ## Features
 - [x] Responsive
 - [x] Dynamic
+
+## Video
+<div>
+    <a href="https://www.loom.com/share/c5779e66057a4de3aa5e77f3184e9560">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5779e66057a4de3aa5e77f3184e9560-27df4f3779fa4a58-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
