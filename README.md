@@ -1,10 +1,17 @@
-# Bankist Application
+# Banking Application
+This is a web page that models some of the basic interactions of a dynamic web application-- the application itself isn't dynamic.
 
+## Tools
+- JavaScript
+- HTML 5
+- CSS 3
 
+## Concepts
+- DOM manipulation
 
 ## Features
 - [x] Responsive
-- [x] Dynamic
+- [x] Interactive
 
 ## Video
 <div>
@@ -14,7 +21,6 @@
   </div>
 
 ## Notes
-
 All credits to <a href="https://www.udemy.com/course/the-complete-javascript-course/?couponCode=24T7MT123024">The Complete JavaScript Course 2025: From Zero to Expert!</a>. 
 
 
